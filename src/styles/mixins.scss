@@ -1,0 +1,28 @@
+/****************************
+*****************************
+  MIXINS
+*****************************  
+****************************/
+
+@mixin flex-horizontal {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+@mixin flex-vertical {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  justify-content: space-between;
+}
+
+@mixin btn-color($color) {
+  background-color: $color;
+  &:hover {
+    background-color: lighten($color, 10%);
+    border-bottom: 6px solid darken($color, 5%);
+  }
+}
