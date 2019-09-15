@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/auto-loan-calculator/static/css/main.f456e070.chunk.css",
-    "main.js": "/auto-loan-calculator/static/js/main.a4d3d20c.chunk.js",
-    "main.js.map": "/auto-loan-calculator/static/js/main.a4d3d20c.chunk.js.map",
-    "runtime~main.js": "/auto-loan-calculator/static/js/runtime~main.f14f1efd.js",
-    "runtime~main.js.map": "/auto-loan-calculator/static/js/runtime~main.f14f1efd.js.map",
-    "static/css/2.466c2356.chunk.css": "/auto-loan-calculator/static/css/2.466c2356.chunk.css",
-    "static/js/2.6ed8f388.chunk.js": "/auto-loan-calculator/static/js/2.6ed8f388.chunk.js",
-    "static/js/2.6ed8f388.chunk.js.map": "/auto-loan-calculator/static/js/2.6ed8f388.chunk.js.map",
-    "index.html": "/auto-loan-calculator/index.html",
-    "precache-manifest.418aa9a8a6406f232886ac02ec5be477.js": "/auto-loan-calculator/precache-manifest.418aa9a8a6406f232886ac02ec5be477.js",
-    "service-worker.js": "/auto-loan-calculator/service-worker.js",
-    "static/css/2.466c2356.chunk.css.map": "/auto-loan-calculator/static/css/2.466c2356.chunk.css.map",
-    "static/css/main.f456e070.chunk.css.map": "/auto-loan-calculator/static/css/main.f456e070.chunk.css.map"
+    "main.css": "/dice-game/static/css/main.f456e070.chunk.css",
+    "main.js": "/dice-game/static/js/main.a4d3d20c.chunk.js",
+    "main.js.map": "/dice-game/static/js/main.a4d3d20c.chunk.js.map",
+    "runtime~main.js": "/dice-game/static/js/runtime~main.ecd78382.js",
+    "runtime~main.js.map": "/dice-game/static/js/runtime~main.ecd78382.js.map",
+    "static/css/2.466c2356.chunk.css": "/dice-game/static/css/2.466c2356.chunk.css",
+    "static/js/2.6ed8f388.chunk.js": "/dice-game/static/js/2.6ed8f388.chunk.js",
+    "static/js/2.6ed8f388.chunk.js.map": "/dice-game/static/js/2.6ed8f388.chunk.js.map",
+    "index.html": "/dice-game/index.html",
+    "precache-manifest.3710a2e53862b3c55d9fe2324907d403.js": "/dice-game/precache-manifest.3710a2e53862b3c55d9fe2324907d403.js",
+    "service-worker.js": "/dice-game/service-worker.js",
+    "static/css/2.466c2356.chunk.css.map": "/dice-game/static/css/2.466c2356.chunk.css.map",
+    "static/css/main.f456e070.chunk.css.map": "/dice-game/static/css/main.f456e070.chunk.css.map"
   }
 }
